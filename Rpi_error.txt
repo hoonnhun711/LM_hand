@@ -1,0 +1,32 @@
+The following packages have unmet dependencies:
+ leap:i386 : Depends: libc6:i386 (>= 2.15-0) but it is not installable
+             Depends: libgl1-mesa-glx:i386 (>= 7.7.1) but it is not installable or
+                      libgl1-mesa-glx-lts-precise:i386 (>= 7.7.1) but it is not installable or
+                      libgl1-mesa-glx-lts-quantal:i386 (>= 7.7.1) but it is not installable or
+                      libgl1-mesa-glx-lts-raring:i386 (>= 7.7.1) but it is not installable or
+                      libgl1-mesa-glx-lts-saucy:i386 (>= 7.7.1) but it is not installable or
+                      libgl1-mesa-glx-lts-trusty:i386 (>= 7.7.1) but it is not installable or
+                      libgl1-mesa-glx-lts-utopic:i386 (>= 7.7.1) but it is not installable or
+                      libgl1-mesa-glx-lts-vivid:i386 (>= 7.7.1) but it is not installable
+             Depends: libglu1-mesa:i386 (>= 7.7.1) but it is not installable
+             Depends: libxi6:i386 (>= 2:1.3-3) but it is not installable
+             Depends: libxxf86vm1:i386 (>= 1:1.1.0-2) but it is not installable
+             Depends: libdbus-1-3:i386 (>= 1.0.2) but it is not installable
+E: Unable to correct problems, you have held broken packages.
+
+The following information may help to resolve the situation:
+
+The following packages have unmet dependencies:
+ leap:amd64 : Depends: libc6:amd64 (>= 2.15-0) but it is not installable
+              Depends: libgl1-mesa-glx:amd64 (>= 7.7.1) but it is not installable or
+                       libgl1-mesa-glx-lts-precise:amd64 (>= 7.7.1) but it is not installable or
+                       libgl1-mesa-glx-lts-quantal:amd64 (>= 7.7.1) but it is not installable or
+                       libgl1-mesa-glx-lts-raring:amd64 (>= 7.7.1) but it is not installable or
+                       libgl1-mesa-glx-lts-saucy:amd64 (>= 7.7.1) but it is not installable or
+                       libgl1-mesa-glx-lts-trusty:amd64 (>= 7.7.1) but it is not installable or
+                       libgl1-mesa-glx-lts-utopic:amd64 (>= 7.7.1) but it is not installable or
+                       libgl1-mesa-glx-lts-vivid:amd64 (>= 7.7.1) but it is not installable
+              Depends: libglu1-mesa:amd64 (>= 7.7.1) but it is not installable
+              Depends: libxi6:amd64 (>= 2:1.3-3) but it is not installable
+              Depends: libxxf86vm1:amd64 (>= 1:1.1.0-2) but it is not installable
+              Depends: libdbus-1-3:amd64 (>= 1.0.2) but it is not installable
